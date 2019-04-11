@@ -1,5 +1,3 @@
-# written by Gregory Cave on 08/12/2016
-# developed in the Python 3.2.5 programming environment
 
 def whatIsAtPositionN(n): # O(1)
   return(my_list[n])
